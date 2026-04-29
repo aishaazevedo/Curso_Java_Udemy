@@ -1,7 +1,7 @@
 public class PromocaoAutomatica {
     public static void main(String[] args) {
 
-        int d = 30;
+        int d = 300;
         long e = 40L;
         float f = 1.5f;
         double g = 2.5;
