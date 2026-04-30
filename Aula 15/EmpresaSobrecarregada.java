@@ -1,4 +1,4 @@
-public class EmpresaSobrecarregada {
+public class EmpresaSobrecarregada{
     String nome;
     String cargo;
     int idade;
