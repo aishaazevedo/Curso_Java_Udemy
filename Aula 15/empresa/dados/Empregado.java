@@ -1,4 +1,4 @@
-//package empresa.dados; // Declara que este arquivo pertence a este pacote
+package empresa.dados; // Declara que este arquivo pertence a este pacote
 
 public class Empregado {
     public String nome;
