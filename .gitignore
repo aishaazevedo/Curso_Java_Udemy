@@ -3,7 +3,7 @@
 *.iml
 out/
 
-# --- Arquivos de Sistema ----
+# --- Arquivos de Sistema ---
 .DS_Store
 Thumbs.db
 
