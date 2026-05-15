@@ -19,5 +19,6 @@ public class CaixaGenerica <T> {
 
         System.out.println(carrinho.getModelo());
         System.out.println(boneca.getNome());
+
     }
 }
