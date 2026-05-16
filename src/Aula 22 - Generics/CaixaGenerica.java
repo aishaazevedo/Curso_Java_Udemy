@@ -5,6 +5,7 @@ public class CaixaGenerica <T> {
         this.coisaNaCaixa = coisa;
     }
     public T pegar(){
+
         return coisaNaCaixa;
     }
     public static void main (String[] args){

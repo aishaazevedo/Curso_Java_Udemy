@@ -22,7 +22,7 @@ public class TesteCaixa {
         String texto = caixaTexto.pegar();
 
         System.out.println(texto);
-///////////////////////////////////////////////////////////
+
         Caixa<Integer> caixaNum = new Caixa<>();
 
         caixaNum.guardar(125);
