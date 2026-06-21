@@ -19,7 +19,7 @@ public class ExemploImagem extends Application {
         imageView.setPreserveRatio(true);
 
         VBox layout = new VBox(imageView);
-        Scene cena = new Scene(layout, 700, 700);
+        Scene cena = new Scene(layout, 1200, 730);
 
         palco.setScene(cena);
         palco.show();

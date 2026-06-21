@@ -1,6 +1,5 @@
 import javafx.application.Application;
 import javafx.scene.Scene;
-import javafx.scene.layout.HBox;
 import javafx.stage.Stage;
 import javafx.scene.web.WebView;
 

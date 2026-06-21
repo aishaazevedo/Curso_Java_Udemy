@@ -3,11 +3,11 @@ public class Exemplo2 {
     public static void main(String[] args) {
         try {
 
-            FileWriter writer = new FileWriter("C:/Users/azeve/OneDrive/Área de Trabalho/Programação/ADM/meuArquivo.txt");
-            writer.write("Olá, mundo!");
+            FileWriter writer = new FileWriter("C:/Users/azeve/OneDrive/Área de Trabalho/Programação/ADM/meuTextinho.txt");
+            writer.write("Amo vccc");
             writer.close();
 
-            FileReader reader = new FileReader("C:\\Users\\azeve\\OneDrive\\Área de Trabalho\\Programação\\ADM\\meuArquivo.txt");
+            FileReader reader = new FileReader("C:\\Users\\azeve\\OneDrive\\Área de Trabalho\\Programação\\ADM\\meuTextinho.txt");
             int data = reader.read();
             while (data != -1) {
                 System.out.print((char) data);
