@@ -4,7 +4,7 @@ public class Exemplo2 {
         try {
 
             FileWriter writer = new FileWriter("C:/Users/azeve/OneDrive/Área de Trabalho/Programação/ADM/meuTextinho.txt");
-            writer.write("Amo vccc");
+            writer.write("Testando...");
             writer.close();
 
             FileReader reader = new FileReader("C:\\Users\\azeve\\OneDrive\\Área de Trabalho\\Programação\\ADM\\meuTextinho.txt");
